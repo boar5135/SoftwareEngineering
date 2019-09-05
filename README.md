@@ -1,1 +1,2 @@
-# SoftwareEngineering
+<h1>Software Engineering & CSC 160</h1>
+<p>In the video, Mayuko notes the expectations surrounding software engineering versus the reality of the job. She notes everything from the importance of soft skills to the fact that people can be themselves as a sofware engineer. Furthermore, she shares that the learning process for a software engineer does not end upon graduation and the process of learning it is lifelong. Similarly, the syllabus for CSC 160 highlights the importance of group work and the need for peers to provide feedback to one another. Many of the points made in Mayuko's video are 
